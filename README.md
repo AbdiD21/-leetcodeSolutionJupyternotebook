@@ -1,4 +1,4 @@
-# Data Science Practice Repository
+### Data Science Practice Repository
 
 ## LeetCode Solutions
 This repository contains **LeetCode problem-solving exercises** I completed while learning and practicing data science concepts. Each solution demonstrates practical applications of algorithms, data structures, and analytical thinking relevant to data science workflows.
