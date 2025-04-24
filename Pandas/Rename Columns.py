@@ -9,3 +9,6 @@ def renameColumns(students: pd.DataFrame) -> pd.DataFrame:
         'age': 'age_in_years'
     })
     return students
+
+# Time Complexity: O(1)
+# Space Complexity: O(1) 
