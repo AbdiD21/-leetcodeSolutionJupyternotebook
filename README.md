@@ -6,9 +6,7 @@ This repository contains **LeetCode problem-solving exercises** I completed whil
 ---
 
 ### Problem Categories
-- **Algorithm Challenges**: Sorting, searching, and optimization problems
-- **Data Structure Implementations**: Arrays, linked lists, trees, and graphs
-- **SQL Solutions**: Database querying and manipulation exercises
+- **Algorithm Challenges**:
 - **Pandas/Numpy Tasks**: Data manipulation challenges using Python libraries
 
 ---
