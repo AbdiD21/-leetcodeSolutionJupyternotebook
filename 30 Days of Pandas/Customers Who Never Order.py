@@ -11,6 +11,6 @@ def find_customers(customers: pd.DataFrame, orders: pd.DataFrame) -> pd.DataFram
     result.columns = ['Customers']
     return result
 
-# Time: O(n+m)
+# Time Complexity: O(n+m)
 
-# Space: O(n+m)
+# Space Complexity: O(n+m)
