@@ -6,3 +6,7 @@ def calculate_special_bonus(employees: pd.DataFrame) -> pd.DataFrame:
         axis=1
     )
     return employees[['employee_id', 'bonus']].sort_values('employee_id')
+
+# Time Complexity: O(n log n)
+
+# Space Complexity: O(n)
